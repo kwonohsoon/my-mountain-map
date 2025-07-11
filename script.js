@@ -115,18 +115,28 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 
   {
     name: "지리산 반야봉",
-    lat: 36.984983,
-    lng: 128.256754,
+    lat: 35.316596,
+    lng: 127.569399,
     photo: "images/13.jpg",
     date: "2018-11-04",
     note: "지리산 반야봉 등반 멀리서 보면 여자 가슴처럼 보여짐."
   },
 
   {
-    name: "금수산",
-    lat: 37.279994,
-    lng: 128.596094,
+    name: "지리산 천왕봉",
+    lat: 35.33691,
+    lng: 127.730623,
     photo: "images/14.jpg",
+    date: "2018-11-04",
+    note: "지리산 반야봉 등반 멀리서 보면 여자 가슴처럼 보여짐."
+  },
+
+
+  {
+    name: "금수산",
+    lat: 36.984983,
+    lng: 128.256754,
+    photo: "images/15.jpg",
     date: "2018-12-08",
     note: "올겨울 들어 가장 추웠지만 미세먼지 없는 화창한 날씨라 경치가 너무 좋았음."
   },
@@ -136,7 +146,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     name: "팔공산",
     lat: 36.016377,
     lng: 128.694556,
-    photo: "images/15.jpg",
+    photo: "images/16.jpg",
     date: "2018-12-10",
     note: "대구 딸에게 갔다가 오는 길에 하늘공원으로 가서 쉽게 갔다 올 수 있었다 2시간 정도 소요"
   },
@@ -146,7 +156,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     name: "청화산",
     lat: 36.603707,
     lng: 127.920357,
-    photo: "images/16.jpg",
+    photo: "images/17.jpg",
     date: "2018.12.22",
     note: "충북 괴산에 있는 청화산에 올랐다."
   },
@@ -156,7 +166,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     name: "대야산",
     lat: 36.669121,
     lng: 127.929446,
-    photo: "images/17.jpg",
+    photo: "images/18.jpg",
     date: "2018.12.22",
     note: "용추계곡을 지나 피아골방향으로 올라가서 밀재로 내려왔음. 계곡을 보면서 걸으니 여름에 오고싶어 지네요"
   },
@@ -166,7 +176,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     name: "도락산",
     lat: 36.856303,
     lng: 128.311325,
-    photo: "images/18.jpg",
+    photo: "images/19.jpg",
     date: "2019-01-19",
     note: "우암 송시열은 깨달음을 얻는 데는 나름데로 길이 있어야 하고 거기에는 또한 즐거움이 뒤따라야 한다 라는 뜻에서 산이름을 지었다고 합니다."
   },
@@ -176,7 +186,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     name: "속리산",
     lat: 36.543193,
     lng: 127.870804,
-    photo: "images/19.jpg",
+    photo: "images/20.jpg",
     date: "2019-01-26",
     note: "천왕봉에 오르니 미세먼지도 적고 화창한 날싸라 즐겁게 산행을 하였음."
   },
@@ -186,7 +196,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     name: "화왕산",
     lat: 35.547123,
     lng: 128.531684,
-    photo: "images/20.jpg",
+    photo: "images/21.jpg",
     date: "2019-02-09",
     note: "화왕산은 아내와 함께 온적이 있어 더 친근감이 가네요."
   },
@@ -196,7 +206,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     name: "달마산",
     lat: 34.382578,
     lng: 126.585164,
-    photo: "images/21.jpg",
+    photo: "images/22.jpg",
     date: "2019-02-16",
     note: "달마산 달마봉 정상에 오르고 천년고찰 미황사에는 매화꽃이 피어 남도의 정취를 느낄 수 있었습니다."
   },
@@ -206,7 +216,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     name: "두륜산",
     lat: 34.471914,
     lng: 126.637561,
-    photo: "images/22.jpg",
+    photo: "images/23.jpg",
     date: "2019-02-17",
     note: "두륜산 가련봉 정상에 올랐는데 겨울철에 남도의 산들이 너무 푸근하고 좋습니다."
   },
