@@ -5,7 +5,7 @@ const map = L.map('map', {
 });
 
 map.setMaxBounds([
-  [33.0, 124.5],
+  [34.0, 125.5],
   [39.6, 132.0]
 ]);
 
