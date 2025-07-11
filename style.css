@@ -1,61 +1,58 @@
 body {
+  font-family: sans-serif;
   margin: 0;
   padding: 0;
-  font-family: 'Segoe UI', sans-serif;
-  background-color: #f0f2f5;
 }
 
-header {
-  background-color: #ffffff;
-  padding: 20px;
+h2 {
   text-align: center;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-}
-
-header h1 {
-  margin: 0;
-  font-size: 24px;
-  color: #2c3e50;
-}
-
-header p {
-  margin: 5px 0 0;
-  color: #666;
+  margin: 16px 0;
 }
 
 .container {
   display: flex;
-  height: calc(100vh - 100px);
+  flex-direction: column; /* 기본: 세로 정렬 */
+  align-items: center;
+  padding: 10px;
 }
 
+/* 좌측 정보 영역 */
 #info-box {
-  flex: 1;
-  background: #ffffff;
-  padding: 20px;
+  width: 90%;
+  margin-bottom: 20px;
   text-align: center;
-  border-right: 1px solid #ddd;
-  box-shadow: inset -2px 0 5px rgba(0,0,0,0.05);
 }
 
 #photo {
-  max-width: 90%;
-  height: auto;
-  border-radius: 12px;
-  box-shadow: 0 4px 10px rgba(0,0,0,0.15);
-  margin-bottom: 15px;
+  width: 100%;
+  max-width: 300px;
+  border-radius: 8px;
+  box-shadow: 0 0 5px #999;
 }
 
-#info-box p {
-  font-size: 16px;
-  color: #333;
-  margin: 8px 0;
-}
-
+/* 지도 영역 */
 #map {
-  flex: 2;
-  height: 110%;
+  width: 90%;
+  height: 500px;
+  border: 2px solid #ccc;
 }
 
+/* 화면이 넓을 때만 좌우 분할 */
+@media screen and (min-width: 768px) {
+  .container {
+    flex-direction: row; /* 가로 정렬 */
+    justify-content: space-around;
+    align-items: flex-start;
+  }
+
+  #info-box, #map {
+    width: 45%;
+  }
+
+  #map {
+    height: 600px;
+  }
+}
 h2 a {
   text-decoration: none;
   color: black;
