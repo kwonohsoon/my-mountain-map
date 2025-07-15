@@ -759,7 +759,142 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     date: "2021-09-04",
     note: "전남 영광군 불갑산 정상입니다."
   },
-
+  {
+    name: "축령산",
+    lat: 35.370958,
+    lng: 126.726042,
+    photo: "images/84.jpg",
+    date: "2021-09-05",
+    note: "전남 장성군 축령산 정상입니다."
+  },
+  {
+    name: "방장산",
+    lat: 35.455635,
+    lng: 126.754379,
+    photo: "images/85.jpg",
+    date: "2021-09-05",
+    note: "전남 장성군 방장산 정상입니다."
+  },
+  {
+    name: "모악산",
+    lat: 35.728588,
+    lng: 127.08524,
+    photo: "images/86.jpg",
+    date: "2021-10-02",
+    note: "전북 완주군 모악산 정상입니다."
+  },
+  {
+    name: "내변산(변산)",
+    lat: 35.623238,
+    lng: 126.582396,
+    photo: "images/87.jpg",
+    date: "2021-10-02",
+    note: "전북 부안 변산 정상입니다."
+  },
+  {
+    name: "가야산(충남)",
+    lat: 36.706541,
+    lng: 126.608205,
+    photo: "images/88.jpg",
+    date: "2021-10-03",
+    note: "충남 예산군 가야산 정상입니다."
+  },
+  {
+    name: "용봉산",
+    lat: 36.643662,
+    lng: 126.64925,
+    photo: "images/89.jpg",
+    date: "2021-10-03",
+    note: "충남 홍성군 용봉산 정상입니다."
+  },
+  {
+    name: "청계산",
+    lat: 37.427998,
+    lng: 127.043578,
+    photo: "images/90.jpg",
+    date: "2021-10-30",
+    note: "서울 서초구 청계산 정상입니다."
+  },
+  {
+    name: "관악산",
+    lat: 37.444935,
+    lng: 126.964317,
+    photo: "images/91.jpg",
+    date: "2021-10-30",
+    note: "서울 관악구 관악산 정상입니다."
+  },
+  {
+    name: "감악산(파주)",
+    lat: 37.941077,
+    lng: 126.969883,
+    photo: "images/92.jpg",
+    date: "2021-10-31",
+    note: "경기도 파주시 감악산 정상입니다."
+  },
+  {
+    name: "소요산",
+    lat: 37.938513,
+    lng: 127.08791,
+    photo: "images/93.jpg",
+    date: "2021-10-31",
+    note: "경기도 동두천시 소요산 정상입니다."
+  },
+  {
+    name: "용문산",
+    lat: 37.56215,
+    lng: 127.548597,
+    photo: "images/94.jpg",
+    date: "2022-04-02",
+    note: "경기도 양평 용문산 정상입니다."
+  },
+  {
+    name: "유명산",
+    lat: 37.575283,
+    lng: 127.486572,
+    photo: "images/95.jpg",
+    date: "2022-04-03",
+    note: "경기도 가평군 유명산 정상입니다."
+  },
+  {
+    name: "가지산",
+    lat: 35.619684,
+    lng: 129.002975,
+    photo: "images/96.jpg",
+    date: "2022-04-23",
+    note: "울산 울주군 가지산 정상입니다."
+  },
+  {
+    name: "신불산",
+    lat: 35.539361,
+    lng: 129.054111,
+    photo: "images/97.jpg",
+    date: "2022-04-24",
+    note: "울산 울주군 신불산 정상입니다."
+  },
+  {
+    name: "천태산",
+    lat: 36.159169,
+    lng: 127.6001,
+    photo: "images/98.jpg",
+    date: "2022-06-11",
+    note: "충북 영동군 천태산 정상입니다."
+  },
+  {
+    name: "민주지산",
+    lat: 36.039956,
+    lng: 127.849098,
+    photo: "images/99.jpg",
+    date: "2022-06-12",
+    note: "충북 영동군 민주지산 정상입니다."
+  },
+  {
+    name: "백덕산",
+    lat: 37.396431,
+    lng: 128.2935,
+    photo: "images/100.jpg",
+    date: "2022-08-20",
+    note: "강원도 영월 백덕산 정상입니다."
+  },
 
    {
     name: "백운산",
@@ -768,14 +903,6 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     photo: "images/101.jpg",
     date: "2022-08-21",
     note: "명산100 완등을 축하 합니다."
-  },
-  {
-    name: "지리산",
-    lat: 35.3634,
-    lng: 127.7308,
-    photo: "images/100.jpg",
-    date: "2024-05-03",
-    note: "봄꽃이 만개했던 날"
   }
 ];
 
