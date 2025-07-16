@@ -7,7 +7,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
  const mountains = [
 
  {
-    name: "치악산",
+    name: "치악산 비로봉",
     lat: 37.364995,
     lng: 128.055601,
     photo: "images/01.jpg",
@@ -441,7 +441,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 127.747992,
     photo: "images/51.jpg",
     date: "2019-11-30",
-    note: "춘천 용화산 입니다."
+    note: "춘천 용화산 정상입니다."
   },
 
   {
@@ -450,7 +450,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 127.807184,
     photo: "images/52.jpg",
     date: "2019-11-30",
-    note: "춘천 오봉산 입니다."
+    note: "춘천 오봉산으로 용화산과 연계산행 하였습니다."
   },
 
   {
@@ -518,7 +518,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 127.081237,
     photo: "images/59.jpg",
     date: "2020-05-17",
-    note: "서울 노원구 상계동 수락산 주봉 입니다."
+    note: "수락산은 의정부와 국도를 사이에 두고 북한산, 도봉산과 마주하고 있다. 불수사도북(불암산, 수락산, 사패산, 도봉산, 북한산) 종주를 하는 것을 하나의 목표로 삼을 만큼 수도권 내에서 유명한 산이다."
   },
 
 
@@ -548,7 +548,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 127.697044,
     photo: "images/62.jpg",
     date: "2020-08-16",
-    note: "강원 홍천군 팔봉산 정상입니다."
+    note: "강원 홍천군에 있으며 묘미는 뭐니 뭐니 해도 아기자기한 작은 봉우리 들리 강변 오솔길 이다."
   },
 
 
@@ -837,7 +837,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 127.08791,
     photo: "images/93.jpg",
     date: "2021-10-31",
-    note: "경기도 동두천시 소요산 정상입니다."
+    note: "경기도 동두천시 소요산 의상대 정상입니다. 서화담 양봉래와 매월당 김시습이 자주 소요하였다 하여 소요산이라 부름"
   },
   {
     name: "용문산",
