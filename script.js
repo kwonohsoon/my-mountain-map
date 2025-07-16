@@ -29,7 +29,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 128.908553,
     photo: "images/03.jpg",
     date: "2018-08-12",
-    note: "본격 적으로 100명산 도전 최병배 선생님과 처음 시작"
+    note: "본격 적으로 100명산 도전 최병배 선생님과 처음 시작, 원효대사가 건립했다는 청량사, 신라시대 명필 김생이 글씨공부하던 김생굴, 고려 공민왕이 홍건적의난을 피해 은신한 오마대 등이 있다."
   },
   {
     name: "주왕산",
@@ -37,7 +37,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 129.162394,
     photo: "images/04.jpg",
     date: "2018-08-15",
-    note: "얼음둥둥 콩국수 먹었는데 맛이 별로 였음"
+    note: "산세가 아름다워 경북의 소금강이라 불리움, 얼음둥둥 콩국수 먹었는데 맛이 별로 였음"
   },
   {
     name: "함백산",
@@ -45,7 +45,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 128.917603,
     photo: "images/05.jpg",
     date: "2018-08-18",
-    note: "1일 2산행 도전(함백 태백산)"
+    note: "1일 2산행 도전(함백 태백산) 함백산 정상에는 고산수목인 주목과 야생화들이 군락을 이루고 있다."
   },
   {
     name: "태백산",
@@ -53,7 +53,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 128.916636,
     photo: "images/06.jpg",
     date: "2018-08-19",
-    note: "당골광장-태백산-장군봉-부쇠봉-문수봉 약13km 5시간 소요됨"
+    note: "당골광장-태백산-장군봉-부쇠봉-문수봉 약13km 5시간 소요됨 겨울에는 눈꽃축제 등으로 관광객이 많이 찾는다"
   },
   {
     name: "오대산 비로봉",
@@ -69,7 +69,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 128.639083,
     photo: "images/08.jpg",
     date: "2018-09-03",
-    note: "왕복 8km 이지만 비교적 쉬운 산행이었음"
+    note: "왕복 8km 이지만 비교적 쉬운 산행이었음 금강사 주변은 천연기념물인 장수하늘소 서식지로 알려져 있다."
   },
   {
     name: "소백산",
@@ -77,7 +77,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 128.484869,
     photo: "images/09.jpg",
     date: "2018-09-09",
-    note: "나 혼자 비로봉 오름 경치가 너무 좋았음"
+    note: "나 혼자 비로봉 오름 경치가 너무 좋았음 소백산은 철쭉도 유명하지만 상고대가 정말 멋진 곳 중 하나이다."
   },
   {
     name: "조령산",
@@ -85,7 +85,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 128.044244,
     photo: "images/10.jpg",
     date: "2018-09-15",
-    note: "길을 잘못들어 헤메였으며 날씨가 흐려 경치는 별로였음"
+    note: "새도 쉬었다 가는 곳인데, 길을 잘못들어 헤메였으며 날씨가 흐려 경치는 별로였음"
   },
   {
     name: "월악산",
@@ -93,7 +93,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 128.105847,
     photo: "images/11.jpg",
     date: "2018-10-09",
-    note: "마애봉-영봉-중봉-하봉 순으로 종주하였음 5시간 소요"
+    note: "동양의 알프스, 제2의 금강산이라 불리기도 한 이곳은 코스를 따라 마애봉-영봉-중봉-하봉 순으로 종주하였으며 5시간 소요 됨"
   },
   {
     name: "지리산 바래봉",
@@ -101,7 +101,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 127.57632,
     photo: "images/12.jpg",
     date: "2018-11-03",
-    note: "곧바로 쇄석산장으로 향함 황홀한 일몰을 보면 금연을 다짐함"
+    note: "스님의 밥그릇 바리때를 엎어놓은 모양이라는 의미로 바리봉이 었는데 음이 변하여 바래봉으로, 곧바로 쇄석산장으로 향함 황홀한 일몰을 보면 금연을 다짐함"
   },
   {
     name: "지리산 천왕봉",
@@ -109,7 +109,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 127.730623,
     photo: "images/13.jpg",
     date: "2018-11-04",
-    note: "지리산 천왕봉"
+    note: "지리산 천왕봉 입니다. 금강산, 한라산과 더불어 삼신산의 하나이며, 어리석은 사람이 머물면 지혜로운 사람으로 달라진다 하여 지리산이라 불린다."
   },
   {
     name: "지리산 천왕봉",
@@ -141,7 +141,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 127.920357,
     photo: "images/17.jpg",
     date: "2018.12.22",
-    note: "충북 괴산에 있는 청화산에 올랐다"
+    note: "충북 괴산에 있는 청화산에 올랐다. 백두대간의 중심이라 불린다"
   },
   {
     name: "대야산",
@@ -173,7 +173,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 128.531684,
     photo: "images/21.jpg",
     date: "2019-02-09",
-    note: "화왕산은 아내와 함께 온적이 있어 더 친근감이 가네요"
+    note: "화왕산은 아내와 함께 온적이 있어 더 친근감이 가네요 능선 억새풀이 장관을 이루며, 봄의 진달래도 절경이다."
   },
   {
     name: "달마산",
@@ -181,7 +181,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 126.585164,
     photo: "images/22.jpg",
     date: "2019-02-16",
-    note: "달마산 달마봉 정상에 오르고 천년고찰 미황사에는 매화꽃이 피어 남도의 정취를 느낄 수 있었습니다"
+    note: "남도의 금강산 달마산 달마봉 정상에 오르고 천년고찰 미황사에는 매화꽃이 피어 남도의 정취를 느낄 수 있었습니다"
   },
   {
     name: "두륜산",
@@ -189,7 +189,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 126.637561,
     photo: "images/23.jpg",
     date: "2019-02-17",
-    note: "두륜산 가련봉 정상에 올랐는데 겨울철에 남도의 산들이 너무 푸근하고 좋습니다"
+    note: "땅끝마을에서 마주한 두륜산 가련봉 정상에 올랐는데 겨울철에 남도의 산들이 너무 푸근하고 좋습니다"
   },
  {
     name: "천관산",
@@ -197,7 +197,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 126.919697,
     photo: "images/24.jpg",
     date: "2019-03-01",
-    note: "천관산 인증신청 합니다"
+    note: "천관산 입니다. 호남의 5대 명산(지리산, 내장산, 변산, 월출산, 천관산) 김유신에게 버림받은 천관녀가 숨어 살았던 산이라 불림"
   },
   {
     name: "팔영산",
@@ -205,7 +205,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 127.436453,
     photo: "images/25.jpg",
     date: "2019-03-02",
-    note: "팔영산 깃대봉 인증삿"
+    note: "다도해의 아름다운 석양 속에서 팔영산 깃대봉 인증삿"
   },
   {
     name: "가야산",
@@ -213,7 +213,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 128.120582,
     photo: "images/26.jpg",
     date: "2019-03-09",
-    note: "날씨 맑고 미세먼지 양호함 즐거운 산행으로 마무리"
+    note: "날씨 맑고 미세먼지 양호함 즐거운 산행으로 마무리, 해인사를 비롯한 많은 문화유적들이 있으며 매년 10월에는 대가야문화제가 열린다."
   },
   {
     name: "칠보산",
@@ -221,7 +221,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 127.927891,
     photo: "images/27.jpg",
     date: "2019-03-11",
-    note: "칠보산 인증샸 입니다"
+    note: "칠보산 입니다. 칠보산은 원래 7개 봉우리로 이루어져 있으며 아기자기한 예분 산으로 힘겹지 않고 계곡을 끼고 등산로가 있어 여름에 가기 좋다."
   },
   {
     name: "태화산",
@@ -229,7 +229,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 128.485383,
     photo: "images/28.jpg",
     date: "2019-03-24",
-    note: "태화산 인증신청"
+    note: "태화산 입니다. 남한강이 산자락을 휘감고 흐르고 고씨동굴, 온달성이 있다."
   },
   {
     name: "선운산",
@@ -237,7 +237,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 126.569022,
     photo: "images/29.jpg",
     date: "2019-03-30",
-    note: "고창 선운산 인증"
+    note: "고창 선운산 수리봉 입니다. 호남의 내금강이라 불리며, 백제 때 창건한 선운사가 있어 선운산이라 불리게 됨"
   },
   {
     name: "백암산",
@@ -245,7 +245,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 126.868469,
     photo: "images/30.jpg",
     date: "2019-04-02",
-    note: "백암산 상왕봉 인증신청."
+    note: "백암산 상왕봉 입니다. 가을철 단풍은 내장산 못지않게 아름다워 백양사 코스를 통해 많이 간다"
   },
 
 
@@ -255,7 +255,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 126.889075,
     photo: "images/31.jpg",
     date: "2019-04-03",
-    note: "내장산 신선봉 입니다."
+    note: "내장산 신선봉 입니다. 내장산은 원래 영은사의 이름을 따서 영은산으라 불렀으나, 산 안에 숨겨진 것이 무궁무진하다 하여 내산장이라 불리게 되었다"
   },
 
 
@@ -265,7 +265,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 129.122927,
     photo: "images/32.jpg",
     date: "2019-04-14",
-    note: "양산 천성산 입니다."
+    note: "하늘과 맞닿은 천상의 초원 양산 천성산 입니다."
   },
   {
     name: "황악산",
@@ -273,7 +273,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 127.966822,
     photo: "images/33.jpg",
     date: "2019-05-12",
-    note: "김천 황악산 입니다."
+    note: "김천 황악산 입니다. 직지사로 유명한데 천 개의 불상 가운데 아기불상이 하나있고 그 것을 맨 처음 볼 수 있는 사람은 아기를 점지해 준다 하여 유명하기도 함."
   },
   {
     name: "장안산",
@@ -289,7 +289,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 127.396739,
     photo: "images/35.jpg",
     date: "2019-05-15",
-    note: "아침일찍 마이산 산행을 마쳤습니다."
+    note: "탑사의 신비를 간직한 곳 아침일찍 마이산 산행을 마쳤습니다."
   },
 
 
@@ -299,7 +299,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 127.251925,
     photo: "images/36.jpg",
     date: "2019-05-25",
-    note: "곡성 동악산 인증입니다."
+    note: "곡성 동악산 인증입니다. 단풍나무가 많고 맑은 청류동계곡과 다양한 기암괴석이 많으며 어렵지 않게 정상에 오를 수 있다."
   },
 
 
@@ -309,7 +309,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 127.569399,
     photo: "images/37.jpg",
     date: "2019-05-26",
-    note: "노고단-반야봉 코스로 화창한 날씨라 기분이 좋습니다."
+    note: "낙조가 아름다운 그 곳 노고단-반야봉 코스로 화창한 날씨라 기분이 좋습니다."
   },
 
 
@@ -319,7 +319,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 127.746321,
     photo: "images/38.jpg",
     date: "2019-06-06",
-    note: "덕유산 인증 입니다."
+    note: "덕이 많고 너그러운 모산 향적봉 덕유산 입니다."
   },
 
 
@@ -329,7 +329,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 127.357646,
     photo: "images/39.jpg",
     date: "2019-06-23",
-    note: "운장산 인증 입니다."
+    note: "운장산 입니다. 구름에 가려진 시간이 길다 하여 운장산이라 불림"
   },
 
 
@@ -339,7 +339,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 127.416524,
     photo: "images/40.jpg",
     date: "2019-06-23",
-    note: "두륜산 가련봉 정상에 올랐는데 겨울철에 남도의 산들이 너무 푸근하고 좋습니다."
+    note: "대동여지도에도 구봉으로 표기 되어있으며, 7-8봉은 목재 테크전망대 스릴만점인 100m정도 구름다리를 통과하면 내려다보는 경관이 너무 좋다. "
   },
 
 
@@ -349,7 +349,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 128.300225,
     photo: "images/41.jpg",
     date: "2019-07-17",
-    note: "금오산 현월봉 인증 했어요."
+    note: "손자에 대한 사랑, 오형 돌탑에 쌓아 올리다 금오산 현월봉 입니다."
   },
 
 
@@ -359,7 +359,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 128.465286,
     photo: "images/42.jpg",
     date: "2019-08-25",
-    note: "설악산 대청봉 입니다."
+    note: "설악산 대청봉 입니다. 산마루에 오래도록 눈이 덮이고 암석이 눈같이 희다고 하여 설악이라는 이름을 짓게 되었다고 한다."
   },
 
 
@@ -369,7 +369,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 128.390009,
     photo: "images/43.jpg",
     date: "2019-08-25",
-    note: "방태산 주억봉 1444m 입니다."
+    note: "희귀식물이 가득한 보물 같은 곳 방태산 주억봉 1444m 입니다."
   },
 
   {
@@ -378,7 +378,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 128.465416,
     photo: "images/44.jpg",
     date: "2019-09-29",
-    note: "계방산 인증 입니다."
+    note: "계방산 입니다. 높이는 1579m로 차령산맥에 솟아 있으며, 주위에 방대산, 오대산, 백적산, 태기산, 황병산 등이 있다."
   },
 
   {
@@ -387,7 +387,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 128.563042,
     photo: "images/45.jpg",
     date: "2019-09-30",
-    note: "가리왕산 인증입니다."
+    note: "가리왕산 입니다. 수목이 울창하고 약초, 산나물 등이 풍부하다 청명한 날씨에 동해바다가 보인다."
   },
 
   {
@@ -396,7 +396,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 127.414388,
     photo: "images/46.jpg",
     date: "2019-10-12",
-    note: "가평군 연인산 입니다."
+    note: "가평군 연인산 입니다. 전국 최대의 잣나무 군락지가 있으며, 전국 잣 생산량의 1/3가량이 여기서 생산된다."
   },
 
   {
@@ -405,7 +405,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 127.432207,
     photo: "images/47.jpg",
     date: "2019-10-14",
-    note: "명지산 입니다."
+    note: "명지산 입니다. 연인산과 연계산행을 하는 코스라 아재비고개로 진행을 한다."
   },
 
   {
@@ -414,7 +414,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 127.498155,
     photo: "images/48.jpg",
     date: "2019-10-13",
-    note: "가평 화악산 인증입니다."
+    note: "가평 화악산 입니다. 경기5악산의 의뜸이며 6.25전쟁 당시 격전지로 유명하며 중공군 섬멸을 기념하는 전적비가 하창리에 세워져 있다."
   },
 
   {
@@ -423,7 +423,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 127.861734,
     photo: "images/49.jpg",
     date: "2019-11-10",
-    note: "보은 구병산 입니다."
+    note: "보은 구병산 입니다. 등산내내 푸른 숲이 우거져 있어 많은 그늘을 갖고 있는 산이다."
   },
 
   {
@@ -432,7 +432,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 129.004428,
     photo: "images/50.jpg",
     date: "2019-11-25",
-    note: "삼척 두타산 인증"
+    note: "삼척 두타산 입니다. 바람의 산이라 할 만큼 바람이 모질게 부는 곳으로 산 이름인 두타는 불교용어이며 속세의 번뇌를 버리고 불도 수행을 닦는다는 뜻이다."
   },
 
   {
@@ -459,7 +459,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 127.956469,
     photo: "images/53.jpg",
     date: "2019-12-01",
-    note: "홍천 가리산 입니다."
+    note: "홍천 가리산 입니다. 여름에 가리산 자연휴양림을 찾는다면 시원한 여름을 보낼 수 있다."
   },
 
   {
@@ -468,7 +468,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 126.535659,
     photo: "images/54.jpg",
     date: "2019-12-11",
-    note: "제주 한라산 백록담 입니다."
+    note: "제주 한라산 백록담 입니다. 남한에서 가장 높은 산으로 성판악, 관음사 코스가 있다. 성판악 코스로 18Km정도 긴거리를 낙오없이 종주하였다. "
   },
 
 
@@ -478,7 +478,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 126.704081,
     photo: "images/55.jpg",
     date: "2020-02-01",
-    note: "전남 영암군 월출산 입니다."
+    note: "전남 영암군 월출산 입니다. 남도의 금강산 기암괴석은 시선을 두는 곳마다 장관이며, 지루할 틈 없는 멋진 곳 바로 그곳이다."
   },
 
 
@@ -488,7 +488,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 126.699227,
     photo: "images/56.jpg",
     date: "2020-02-02",
-    note: "전남 덕룡산 동봉 인증입니다."
+    note: "천년의 용의전설을 간직한 전남 덕룡산 동봉 입니다."
   },
 
 
@@ -508,7 +508,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 126.978272,
     photo: "images/58.jpg",
     date: "2020-05-16",
-    note: "서울 성북구 북한산 백운대 정산입니다."
+    note: "서울 성북구 북한산 백운대 정산입니다. 정상아래 백운대피소는 우리나라 최초의 산장으로 역사적 가치를 인정받아 지금도 유지되고 있다"
   },
 
 
@@ -538,7 +538,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 126.430025,
     photo: "images/61.jpg",
     date: "2020-08-15",
-    note: "인천 강화군 마니산 정상입니다."
+    note: "인천 강화군 마니산 정상입니다. 마니란 머리를 뜻하는 고어인데 전 민족의 머리로 상징되어 민족의 영산으로 숭앙되었 왔음"
   },
 
 
@@ -558,7 +558,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 127.31359,
     photo: "images/63.jpg",
     date: "2020-09-12",
-    note: "전남 순천시 조계산 정상입니다."
+    note: "전남 순천시 조계산 입니다. 동쪽으로 선암사, 서쪽으로 송광사가 있으며 편백나무와 삼나무 등 경관이 수려함."
   },
 
 
@@ -568,7 +568,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 127.621344,
     photo: "images/64.jpg",
     date: "2020-09-13",
-    note: "전남 광양시 백운산 정상입니다."
+    note: "전남 광양시 백운산 입니다. 섬진강을 사이에 두고 지리산과 남북으로 마주하고 있으며 고로쇠나무 수액으로 유명하다."
   },
 
 
@@ -578,7 +578,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 128.141768,
     photo: "images/65.jpg",
     date: "2020-09-21",
-    note: "강원도 원주시 감악산 정상입니다."
+    note: "강원도 원주시 감악산 정상입니다. 초보자도 산행하기 좋은 곳 관광지와 먹거리가 많은 곳이다."
   },
 
 
@@ -588,7 +588,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 128.980541,
     photo: "images/66.jpg",
     date: "2020-10-06",
-    note: "경남 밀양시 재약산 정상입니다."
+    note: "경남 밀양시 재약산 정상입니다. 억새 능선길은 가을 산행의 멋을 느낄 수 있는 최고의 힐링길이다."
   },
 
 
@@ -608,7 +608,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 127.660429,
     photo: "images/68.jpg",
     date: "2020-10-11",
-    note: "강원 춘천시 삼악산 정상입니다."
+    note: "낭만이 살아 숨 쉬는 비경 강원 춘천시 삼악산 입니다."
   },
 
 
@@ -628,7 +628,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 129.230517,
     photo: "images/70.jpg",
     date: "2021-01-30",
-    note: "울진 응봉산 정상입니다."
+    note: "울진 응봉산 입니다. 울진쪽에서 보면 매의 형상을 하고 있어 응봉산으로 불리고 있음 주변에는 덕구온천, 불영계곡이 유명하다."
   },
 
 
@@ -638,7 +638,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 128.523791,
     photo: "images/71.jpg",
     date: "2021-02-07",
-    note: "대구 달성군 비슬산 정상입니다."
+    note: "대구 달성군 비슬산 입니다. 산꼭대기에 있는 바위의 모습이 마치 신선이 거문고를 타는 모습과 같다고 하여 비슬산이라 불림."
   },
 
 
@@ -648,7 +648,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 129.012521,
     photo: "images/72.jpg",
     date: "2021-02-20",
-    note: "강원도 삼척시 덕항산 정상입니다."
+    note: "웅장한 환선굴이 있는 곳 강원도 삼척시 덕항산 입니다."
   },
 
 
@@ -658,7 +658,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 129.222876,
     photo: "images/73.jpg",
     date: "2021-03-06",
-    note: "경주 남산 정상입니다."
+    note: "경주 남산 금오봉 입니다. 남산에 오르지 않고 경주를 보았다고 말할 수 없다 자연의 아름다움에다 신라의 오랜 역사, 신라인의 미의식과 종교의식이 예술로 승화된 곳이 남산이다."
   },
 
 
@@ -668,7 +668,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 129.050583,
     photo: "images/74.jpg",
     date: "2021-03-06",
-    note: "경남 양산시 금정산 정상입니다."
+    note: "경남 양산시 금정산 정상입니다. 범어사로 인하여 더욱 잘 알려진 산이다."
   },
 
 
@@ -678,7 +678,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 129.289861,
     photo: "images/75.jpg",
     date: "2021-03-07",
-    note: "경북 영덕군 내연산 정상입니다."
+    note: "경북 영덕군 내연산 입니다."
   },
 
 
@@ -688,7 +688,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 127.755471,
     photo: "images/76.jpg",
     date: "2021-05-22",
-    note: "경남 함양군 황석산 정상입니다."
+    note: "경남 함양군 황석산 입니다. 입구에는 메타세콰이어 나무가 가로수길을 이루어 멋지게 늘어서 있다."
   },
 
 
@@ -698,7 +698,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 127.974609,
     photo: "images/77.jpg",
     date: "2021-05-23",
-    note: "경남 합천군 황매산 정상입니다."
+    note: "경남 합천군 황매산 입니다. 매화꽃속에 홀로 떠 있는 듯 신비한 느낌을 줌 억새와 철쭉이 아름다움 2012년 CNN선정 한국에 가봐야할 50선정"
   },
 
 
@@ -708,7 +708,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 127.320472,
     photo: "images/78.jpg",
     date: "2021-06-05",
-    note: "충남 논산군 대둔산 정상입니다."
+    note: "충남 논산군 대둔산 입니다. 낙조대의 일목 광경이 빼어남."
   },
 
 
@@ -718,7 +718,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 127.200346,
     photo: "images/79.jpg",
     date: "2021-06-05",
-    note: "충남 공주시 계룡산 정상입니다."
+    note: "충남 공주시 계룡산 입니다. 산 전체 모습이 닭벼슬을 쓴 용과 같다고 하여 계룡산이라 함"
   },
 
 
@@ -728,7 +728,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 126.884918,
     photo: "images/80.jpg",
     date: "2021-06-06",
-    note: "충남 청양군 칠갑산 정상입니다."
+    note: "충남 청양군 칠갑산 정상입니다. 일곱 곳의 명당자리가 있어 칠갑산이라 부른다는 이야기가 있음"
   },
 
 
@@ -738,7 +738,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 126.659331,
     photo: "images/81.jpg",
     date: "2021-06-06",
-    note: "충남 홍성군 오서산 정상입니다."
+    note: "충남 홍성군 오서산 입니다. 월정사는 수국이 많으며, 정상을 중심으로 억새밭이 이루어져 억새 산행의 명소이다."
   },
 
   {
@@ -747,7 +747,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 127.002832,
     photo: "images/82.jpg",
     date: "2021-09-04",
-    note: "광주시 동구 무등산 정상입니다."
+    note: "광주시 동구 무등산 입니다. 무등산이란 이름은 비할데 없이 높고 큰 산 비교할 수 없이 고귀한 산이라 의미 2018년 4월12일 유네스코 세계지질공원 선정"
   },
 
 
@@ -757,7 +757,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 126.565029,
     photo: "images/83.jpg",
     date: "2021-09-04",
-    note: "전남 영광군 불갑산 정상입니다."
+    note: "전남 영광군 불갑산 정상입니다. 불갑사가 지어지면서 산 이름도 불갑산으로 바뀌었다."
   },
   {
     name: "축령산",
@@ -765,7 +765,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 126.726042,
     photo: "images/84.jpg",
     date: "2021-09-05",
-    note: "전남 장성군 축령산 정상입니다."
+    note: "전남 장성군 축령산 정상입니다. 은은한 향기가 가득한 축령산의 편백나무 향이 그립다."
   },
   {
     name: "방장산",
@@ -773,7 +773,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 126.754379,
     photo: "images/85.jpg",
     date: "2021-09-05",
-    note: "전남 장성군 방장산 정상입니다."
+    note: "전남 장성군 방장산 입니다. 용추폭포가 흐르며 천년 고찰인 상원사도 있다."
   },
   {
     name: "모악산",
@@ -781,7 +781,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 127.08524,
     photo: "images/86.jpg",
     date: "2021-10-02",
-    note: "전북 완주군 모악산 정상입니다."
+    note: "전북 완주군 모악산 정상입니다. 철쭉이 유명하며 백제 견훤이 이곳에서 후백제를 일으켰다고 전해진다."
   },
   {
     name: "내변산(변산)",
@@ -789,7 +789,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 126.582396,
     photo: "images/87.jpg",
     date: "2021-10-02",
-    note: "전북 부안 변산 정상입니다."
+    note: "전북 부안 변산 정상입니다. 직소폭포는 변산의 최고 절경으로 손꼽힌다 직소폭포 코스를 권장한다."
   },
   {
     name: "가야산(충남)",
@@ -797,7 +797,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 126.608205,
     photo: "images/88.jpg",
     date: "2021-10-03",
-    note: "충남 예산군 가야산 정상입니다."
+    note: "충남 예산군 가야산 상왕봉 정상입니다. 정상에서 서해가 아련하게 보인다."
   },
   {
     name: "용봉산",
@@ -805,7 +805,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 126.64925,
     photo: "images/89.jpg",
     date: "2021-10-03",
-    note: "충남 홍성군 용봉산 정상입니다."
+    note: "충남 홍성군 용봉산 입니다. 용봉산 정상에 바라보는 예산의 수덕사, 서산의 가야산, 예당평야의 시원한 경치가 일품이다."
   },
   {
     name: "청계산",
@@ -813,7 +813,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 127.043578,
     photo: "images/90.jpg",
     date: "2021-10-30",
-    note: "서울 서초구 청계산 정상입니다."
+    note: "서울 서초구 청계산 정상입니다. 청계산은 나지막하고 교통이 편리하며 초보자도 왕복3시간 정도면 정상까지 갈 수 있어 많은 사람이 찾는다"
   },
   {
     name: "관악산",
@@ -821,7 +821,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 126.964317,
     photo: "images/91.jpg",
     date: "2021-10-30",
-    note: "서울 관악구 관악산 정상입니다."
+    note: "서울 관악구 관악산 정상이며, 서울의 명품 경관을 조망할 수 있다."
   },
   {
     name: "감악산(파주)",
@@ -829,7 +829,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 126.969883,
     photo: "images/92.jpg",
     date: "2021-10-31",
-    note: "경기도 파주시 감악산 정상입니다."
+    note: "경기도 파주시 감악산 정상입니다. 경기5악산(개성 송악산, 안양 관악산, 포천 운악산, 가평 화악산, 파주 감악산)으로 불림."
   },
   {
     name: "소요산",
@@ -845,7 +845,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 127.548597,
     photo: "images/94.jpg",
     date: "2022-04-02",
-    note: "경기도 양평 용문산 정상입니다."
+    note: "경기도 양평 용문산 입니다. 커다란 은행나무가 유명한데 수명은 약1100년쯤 된다."
   },
   {
     name: "유명산",
@@ -853,7 +853,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 127.486572,
     photo: "images/95.jpg",
     date: "2022-04-03",
-    note: "경기도 가평군 유명산 정상입니다."
+    note: "경기도 가평군 유명산 정상입니다. 1973년 엠포르산악회 국토 자오선 종주 등산중 진유명씨의 이름을 따 산이름을 붙임"
   },
   {
     name: "가지산",
@@ -861,7 +861,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 129.002975,
     photo: "images/96.jpg",
     date: "2022-04-23",
-    note: "울산 울주군 가지산 정상입니다."
+    note: "울산 울주군 가지산 입니다. 영남의 알프스라 불리며, 귀바위 암벽은 암벽등반의 최적지로 불린다."
   },
   {
     name: "신불산",
@@ -869,7 +869,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 129.054111,
     photo: "images/97.jpg",
     date: "2022-04-24",
-    note: "울산 울주군 신불산 정상입니다."
+    note: "울산 울주군 신불산 정상입니다. 영남의 알프스 두번째로 한폭의 그림 같다는 표현도 모자랄 만큼 멋진 곳이다."
   },
   {
     name: "천태산",
@@ -877,7 +877,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 127.6001,
     photo: "images/98.jpg",
     date: "2022-06-11",
-    note: "충북 영동군 천태산 정상입니다."
+    note: "충북 영동군 천태산 입니다. 암릉 코스가 매력이고 커다란 바위들이 많아 지루하지 않음."
   },
   {
     name: "민주지산",
@@ -885,7 +885,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 127.849098,
     photo: "images/99.jpg",
     date: "2022-06-12",
-    note: "충북 영동군 민주지산 정상입니다."
+    note: "충북 영동군 민주지산 입니다."
   },
   {
     name: "백덕산",
@@ -893,7 +893,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 128.2935,
     photo: "images/100.jpg",
     date: "2022-08-20",
-    note: "강원도 영월 백덕산 정상입니다."
+    note: "강원도 영월 백덕산 입니다. 산새가 험하며 능선의 곳곳에 절벽이 나타나고 가을 단풍이 아름다운 산이다."
   },
 
    {
@@ -902,7 +902,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     lng: 128.596094,
     photo: "images/101.jpg",
     date: "2022-08-21",
-    note: "명산100 완등을 축하 합니다."
+    note: "명산100 완등을 축하 합니다. 동강을 끼고 도는 한반도 지형으로 마지막100산으로 지정해서 갔습니다."
   }
 ];
 
